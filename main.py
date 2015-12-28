@@ -7,7 +7,8 @@ import socket
 
 # HOST, PORT = "72.3.250.117", 1878
 #HOST, PORT = "72.3.250.117", 30006
-HOST, PORT = "72.3.250.117", 1878
+#HOST, PORT = "72.3.250.117", 1878
+HOST, PORT = "72.3.250.117", 1664
 
         
 def client(ip, port):
